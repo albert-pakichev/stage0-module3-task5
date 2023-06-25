@@ -2,7 +2,7 @@ package lang.print.gaps.task5;
 
 public class NumberDivider {
     void divide(int toBeDivided) {
-        int toBeDivided = 10;
+        int toBeDivided = 0;
         int Znachenie = toBeDivided/=5;
         System.out.println(Znachenie);
     }
